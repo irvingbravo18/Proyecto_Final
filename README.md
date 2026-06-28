@@ -1,3 +1,26 @@
+# SmartPass
+Proyecto:
+Realizado en Visual Code para generar contraseñas seguras.
+
+Nombre:
+Hirvin Luis Bravo Garcia
+
+4.	Objetivos
+4.1.	Objetivo General
+Desarrollar un sistema informático que genere contraseñas seguras, aplicando conceptos de programación y diseño de software para contribuir a la protección de la información digital.
+
+4.2.	Objetivos Específicos
+        Analizar el impacto de las nuevas tecnologías en la seguridad de la información.
+        Diseñar la arquitectura y funcionalidades del sistema.
+        Implementar el programa utilizando Visual Studio Code.
+        Aplicar estructuras condicionales y repetitivas.
+        Organizar el código siguiendo buenas prácticas.
+        Utilizar GitHub para el control de versiones.
+        Evaluar el funcionamiento del sistema.
+
+
+
+funcionalidad del proyecto
 ==============================================
      GENERADOR DE CONTRASEÑAS
 ==============================================
@@ -29,3 +52,6 @@ Generar contraseña o salir
 El usuario saldrá del sistema con éxito 
 Se creo un archivo ejecutable con nombre main.py 
 Que puede usar de manera eficaz 
+
+28/06/2026
+
